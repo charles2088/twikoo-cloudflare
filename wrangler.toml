@@ -8,7 +8,7 @@ node_compat = true
 [[d1_databases]]
 binding = "DB" # available in your Worker on env.DB
 database_name = "twikoo"
-database_id = "218baf47-5600-4e70-b5bf-79dffbac9680"
+database_id = "647d17e2-7d2c-46c8-9bf5-dad5da994604"
 
 [vars]
 IS_CLOUDFLARE_WORKER = "true"
